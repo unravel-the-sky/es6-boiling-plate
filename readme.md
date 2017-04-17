@@ -5,7 +5,6 @@ Also includes RxJS
 # How to install #
 Simply type 
 > npm install 
-after cloning the repo
 
 That's it!
 
